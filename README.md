@@ -12,6 +12,8 @@
 
 搭配server/server.exe程式，可以順利在本地運行。
 
+客戶端網址
+
 https://ivesshe.github.io/Golang_CocosCreator_3Slot/
 
 
