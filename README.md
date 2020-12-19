@@ -8,6 +8,12 @@
 
 之後有時間會製作其它遊戲的簡易版，例如牛牛、21點、斗地主之類，只取其中自己想展示的部分製作。
 
+# 展示網址
+
+ https://ivesshe.github.io/Golang_CocosCreator_3Slot/
+
+搭配server/server.exe程式，可以順利在本地運行。
+
 # 開發畫面
 
 Visual Studio Code 
