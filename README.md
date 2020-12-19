@@ -10,9 +10,15 @@
 
 # 展示網址
 
- https://ivesshe.github.io/Golang_CocosCreator_3Slot/
-
 搭配server/server.exe程式，可以順利在本地運行。
+
+https://ivesshe.github.io/Golang_CocosCreator_3Slot/
+
+
+
+展示影片連結
+
+https://www.youtube.com/watch?v=9yY7E3D1RO0&feature=youtu.be
 
 # 開發畫面
 
